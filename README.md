@@ -72,6 +72,20 @@ No terminal ou prompt de comando dentro da pasta que deseja colocar o projeto
 
   Para mais detalhes veja o vídeo tutorial da Michelle Brito no [link](https://www.youtube.com/watch?v=V-PqR0BxA8c&ab_channel=MichelliBrito)
 
+### Preparando o Ambiente
+ Execute o projeto Spring em sua IDE
+
+ Para realizar consultas a API recomendo utilizar o [Postman](https://www.postman.com/)
+ 
+ Exemplo de JSON para ser enviado no body da chamada POST
+ <code>{
+    "ownerRef": "Vini",
+    "emailFrom": "vini@gmail.com",
+    "emailTo": "you@gmail.com",
+    "subject": "Título Teste",
+    "content": "Conteúdo Teste" 
+  }</code>
+ 
 ## Tecnologias
 
 - [Java](https://www.java.com/en/)
