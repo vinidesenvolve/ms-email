@@ -70,9 +70,7 @@ No terminal ou prompt de comando dentro da pasta que deseja colocar o projeto
   spring.mail.properties.mail.smtp.auth=true
   spring.mail.properties.mail.smtp.starttls.enable=true</code>
 
-  Para mais detalhes veja o vídeo tutorial da Michelle Brito no [link](https://www.youtube.com/watch?v=V-PqR0BxA8c&ab_channel=MichelliBrito)
-
-### Preparando o Ambiente
+### Fazendo a chamada 
  Execute o projeto Spring em sua IDE
 
  Para realizar consultas a API recomendo utilizar o [Postman](https://www.postman.com/)
@@ -86,6 +84,8 @@ No terminal ou prompt de comando dentro da pasta que deseja colocar o projeto
     "subject": "Título Teste",
     "content": "Conteúdo Teste" 
   }</code>
+ 
+  Para mais detalhes veja o vídeo tutorial da Michelle Brito no [link](https://www.youtube.com/watch?v=V-PqR0BxA8c&ab_channel=MichelliBrito)
  
 ## Tecnologias
 
