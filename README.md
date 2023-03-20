@@ -50,9 +50,13 @@ No terminal ou prompt de comando dentro da pasta que deseja colocar o projeto
 
 ### Preparando o Ambiente
 
-  Instale, configure o usuário Postgres e suba o aplicação. 
-
-  Para verificar se está online use <code>systemctl status postgresql</code> no Ubuntu
+  Instale, configure o usuário Postgres e suba o aplicação
+  
+  <code>systemctl start postgresql</code>
+  
+  Para verificar se está online use
+  
+  <code>systemctl status postgresql</code>
   
   No arquivo application.properties configure com as suas informações
   
